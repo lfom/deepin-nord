@@ -1,0 +1,23 @@
+# Based on https://github.com/arcticicestudio/nord-termite
+
+[theme]
+color_1=#3b4252
+color_2=#bf616a
+color_3=#a3be8c
+color_4=#ebcb8b
+color_5=#81a1c1
+color_6=#b48ead
+color_7=#88c0d0
+color_8=#e5e9f0
+color_9=#4c566a
+color_10=#bf616a
+color_11=#a3be8c
+color_12=#ebcb8b
+color_13=#81a1c1
+color_14=#b48ead
+color_15=#8fbcbb
+color_16=#eceff4
+background=#2e3440
+foreground=#d8dee9
+tab=#f2f2f2
+style=dark
